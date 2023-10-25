@@ -6,6 +6,8 @@ Working on designs to release for free can be both time consuming and expensive.
 
 X-Reset is a stylish in-game-reset mod for the Sony PlayStation which uses a controller button combination to reset the console. This is useful for resetting back to the game select menu for devices such as PSIO and X-Station. The name and design of X-Reset was done to closely resemble that of the X-Station Quick Solder Board.
 
+Available here is X-Reset 750X which is the PlayStation PU-22 version of the X-Reset which installs with no wires.
+
 ![My Image](main.png)
 
 ## Manufacturing
@@ -14,7 +16,8 @@ X-Reset 750X - Flex PCB in the thickest possible available.
 
 ## Version History
 
-X-Reset 750X
+### X-Reset 750X
+
 - v1.0 - 02/08/2022
 - v1.1 - 25/10/2023
 
