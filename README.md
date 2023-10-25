@@ -14,6 +14,10 @@ Available here to download is X-Reset 750X which is the PlayStation PU-22 versio
 
 X-Reset 750X - Flex PCB in the thickest possible available.
 
+## Programming
+
+Use the code provided written by PyroESP. Program before assembly using programmer of choice. Recommended programmer would be the official Microchip PICkit 4.
+
 ## Version History
 
 ### X-Reset 750X
